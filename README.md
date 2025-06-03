@@ -11,7 +11,6 @@ This repository contains an **ECDSA (Elliptic Curve Digital Signature Algorithm)
 - Key generation (private/public)
 - Message signing
 - Signature verification
-- Example usage and tests included
 
 ## 📂 Project Structure
 
