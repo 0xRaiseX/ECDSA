@@ -15,11 +15,13 @@ This repository contains an **ECDSA (Elliptic Curve Digital Signature Algorithm)
 
 ## 📂 Project Structure
 
+```
 ECDSA/
 ├── src/
 │   ├── main.rs        # Example: key generation, signing, verification
 ├── Cargo.toml         # Project metadata and dependencies
 └── README.md 
+```
 
 ## ⚙️ Quick Start
 
